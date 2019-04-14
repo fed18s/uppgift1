@@ -1,8 +1,10 @@
+import checkbox
 ---
 title
 
 body
 
+checkbox
 
 end
 ---
