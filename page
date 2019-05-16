@@ -1,11 +1,13 @@
 import title
 import checkbox
+import button
 ---
 title
 
 body
 
 checkbox
+button
 
 end
 ---
